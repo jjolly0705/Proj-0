@@ -1,4 +1,4 @@
-// UMBC - CMSC 341 - Fall 2026 - Proj0
+// American Bingo
 #include "bingo.h"
 #include <iostream>
 
