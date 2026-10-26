@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Fall 2026 - Proj0
 #ifndef BINGO_H
 #define BINGO_H
 #include <iostream>
